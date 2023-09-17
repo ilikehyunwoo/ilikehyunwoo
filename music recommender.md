@@ -74,3 +74,9 @@ https://jupyter.org/
 ![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/4402d550-467a-46bc-a141-6305f6fe9f37)
 
 홈페이지에 출력할 수 있게 각 5개의 name,artist,img의 정렬하여 보기 좋게 출력해준다
+
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/c031007f-3be3-4f63-8da9-324acba3e908)
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/861688b2-2fef-459b-aaf7-59ad6ed15149)
+
+검색어에 Lemonade를 검색했을 때 가장 유사도 가 높은 거를 출력해주는 음악 추천해주는 모델을 만들었다
+
