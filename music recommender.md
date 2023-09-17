@@ -61,6 +61,16 @@ https://jupyter.org/
 
 예시로 첫번째 행을 넣어 데이터 유사도를 파악하기 위해서 출력해보았다
 
-![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/a3d77e0a-95f5-48a7-8abb-b204b0af6939)
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/13862c77-a146-42f7-8b46-6c80a1df089a)
 
 유사도 파악한 것을 통해 가장 비슷한 행 5개를 가져오고 name,artist,img를 반환해준다
+
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/578744a2-cd24-4d92-be9f-b007c899e0ab)
+
+이미지만 url에서 가져와서 출력하는 코드
+
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/a5ec2c2d-29c2-439d-a75e-e538e2b9da34)
+
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/4402d550-467a-46bc-a141-6305f6fe9f37)
+
+홈페이지에 출력할 수 있게 각 5개의 name,artist,img의 정렬하여 보기 좋게 출력해준다
