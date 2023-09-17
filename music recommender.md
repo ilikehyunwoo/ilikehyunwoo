@@ -1,8 +1,12 @@
-# 음악 추천 모델 만들기
+# CHAT GPT로 음악 추천 모델 만들기
 
 우선은 음악 추천을 해주는 모델을 만들고 싶어졌다
 
-그래서 데이터를 찾다가 kaggle이라는 사이트를 찾았다
+CHAT GPT를 사용해 만들어보기로 했다
+
+https://chat.openai.com/
+
+그리고 데이터가 필요해서 사이트를 찾아보다가 kaggle이라는 사이트를 찾았다
 
 https://www.kaggle.com/
 
@@ -56,3 +60,7 @@ https://jupyter.org/
 ![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/e635cf71-f490-436c-8194-1a217e65c8ce)
 
 예시로 첫번째 행을 넣어 데이터 유사도를 파악하기 위해서 출력해보았다
+
+![image](https://github.com/ilikehyunwoo/ilikehyunwoo/assets/144587024/a3d77e0a-95f5-48a7-8abb-b204b0af6939)
+
+유사도 파악한 것을 통해 가장 비슷한 행 5개를 가져오고 name,artist,img를 반환해준다
